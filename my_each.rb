@@ -9,6 +9,7 @@ def my_each(array)
   array
 end
 end
+end
 
 yielding do |i|
    puts i
