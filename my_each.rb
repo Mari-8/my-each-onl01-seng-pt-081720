@@ -11,6 +11,6 @@ end
 
 
 
-yielding do |i|
+my_each do |i|
    puts i
  end
