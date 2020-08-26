@@ -14,4 +14,3 @@ end
 yielding do |i|
    puts i
  end
-end
