@@ -11,6 +11,6 @@ end
 
 
 
-my_each do |i|
+my_each(i) do |i|
    puts i
  end
